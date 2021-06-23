@@ -1,0 +1,10 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">7883663</integer>
+    <string name="app_name">VK Video Uploading</string>
+    <string name="uploaded_videos">Uploaded videos</string>
+    <string name="upload_new_video">Upload new video</string>
+    <string name="uploading_a_new_video">Uploading a new video</string>
+    <string name="upload">Upload</string>
+    <string name="video_name">Video name</string>
+    <string name="description">Description</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "VK_Video_Uploading"
+include ':app'
